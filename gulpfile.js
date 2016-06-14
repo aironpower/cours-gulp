@@ -16,13 +16,13 @@ var livereload = require('gulp-livereload');
  */
 var path = {
 	src: {
-		markup: 'src/markup/' // Pourrait être du Markdown, Pug, etc.
+		markup: 'src/markup/', // Pourrait être du Markdown, Pug, etc.
 		styles: 'src/scss/', // Peut-être du Sass, Less, Stylus, voire du CSS.
 		scripts: 'src/js/', // Javascript, Coffee-sript, etc.
-		images: 'src/img/', // Les images à utiliser (en CSS ou autre)
+		images: 'src/img/' // Les images à utiliser (en CSS ou autre)
 	},
 	dist: {
-		markup: 'dist/'
+		markup: 'dist/',
 		styles: 'dist/assets/css/',
 		scripts: 'dist/assets/js/',
 		images: 'dist/assets/img/',
