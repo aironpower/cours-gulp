@@ -11,3 +11,5 @@ Principe: créer des tâches automatisées pour ne pas avoir à les répéter ma
 * https://www.grafikart.fr/tutoriels/html-css/gulp-js-490
 * https://www.grafikart.fr/tutoriels/html-css/gulp-js-490
 * http://putaindecode.io/fr/articles/js/gulp/
+
+je peux faire ce que je veux parce que je suis à Rama
